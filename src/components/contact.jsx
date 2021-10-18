@@ -27,7 +27,7 @@ class Contact extends React.Component {
                           <br />
                           Simply send me an email at <a href="mailto:oscar.tjoar@gmail.com">oscar.tjoar@gmail.com</a>
                           <br />
-                          Download my full resume <a href="">here</a>
+                          Download my full resume <a href="https://github.com/otjoar/otjoar.github.io/blob/main/Oscar%20Tjoar%20Resume.pdf">here</a>
                         </p>
                         {/* <!-- <ul class="list-ico">
                                 <li><span class="ion-ios-location"></span> 329 WASHINGTON ST BOSTON, MA 02108</li>
